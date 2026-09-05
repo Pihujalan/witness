@@ -1,4 +1,6 @@
-<img width="1555" height="1012" alt="ChatGPT Image Sep 6, 2026, 12_57_30 AM" src="https://github.com/user-attachments/assets/751d9f7f-b7e9-4194-b080-82350b7e60c4" /><img width="1555" height="1012" alt="image" src="https://github.com/user-attachments/assets/f19971d2-697a-4dc6-9bca-bac20278913c" /># Witness
+
+
+## Witness
 
 An independent governance and audit layer for AI agent payments, built for the Razorpay AI Builder Internship 2026 (Risk track).
 
@@ -20,7 +22,8 @@ Witness sits between any AI agent and Razorpay. Every payment action the agent p
 The agent can ask for a payment. It cannot approve itself, execute on its own word, or rewrite what actually happened.
 
 ## Architecture
-![Uploading image.png…]()
+<img width="1555" height="1012" alt="image" src="https://github.com/user-attachments/assets/4cdc8029-c4bb-4019-a36c-c5903ec41c11" />
+
 
 
 
